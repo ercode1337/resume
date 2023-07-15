@@ -1,2 +1,4 @@
 # resume
-Resume website
+Resume Website
+
+Coded from scratch without frameworks.
